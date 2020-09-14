@@ -1,4 +1,4 @@
-package com.santosenoque.uber_clone;
+package com.example.mithun.pizzahub;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

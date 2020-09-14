@@ -1,42 +1,42 @@
 {
   "project_info": {
-    "project_number": "515320170566",
-    "firebase_url": "https://uberclone-296e4.firebaseio.com",
-    "project_id": "uberclone-296e4",
-    "storage_bucket": "uberclone-296e4.appspot.com"
+    "project_number": "965536008779",
+    "firebase_url": "https://pizza-hub-b32aa.firebaseio.com",
+    "project_id": "pizza-hub-b32aa",
+    "storage_bucket": "pizza-hub-b32aa.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:515320170566:android:92042fd14af89475",
+        "mobilesdk_app_id": "1:965536008779:android:e4a5738466249975b01bce",
         "android_client_info": {
-          "package_name": "com.santosenoque.uber_clone"
+          "package_name": "com.example.mithun.pizzahub"
         }
       },
       "oauth_client": [
         {
-          "client_id": "515320170566-k773clada9goq54va8tm47i9gje7s0ie.apps.googleusercontent.com",
+          "client_id": "965536008779-0lp0emmv9o5jjf6k08ke6cr908nk4k9n.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.santosenoque.uber_clone",
-            "certificate_hash": "d1de65707c7ebcf4d8e50a8d1f0c507a286c740d"
+            "package_name": "com.example.mithun.pizzahub",
+            "certificate_hash": "3b7de9911efedd990c7ca1c6ae8966544ff2579b"
           }
         },
         {
-          "client_id": "515320170566-1t55c60b950hd5gfdfef2pnjbp4s13ga.apps.googleusercontent.com",
+          "client_id": "965536008779-rlndn5np99eaai7fkplpuk9nhamdnahb.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBLcpDnnknaH_SGCVxq_lCnmQ3HDhrezfI"
+          "current_key": "AIzaSyC2RFc3v0BzbK5Lurs4sDkw73dvQB9MTxk"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "515320170566-1t55c60b950hd5gfdfef2pnjbp4s13ga.apps.googleusercontent.com",
+              "client_id": "965536008779-rlndn5np99eaai7fkplpuk9nhamdnahb.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
