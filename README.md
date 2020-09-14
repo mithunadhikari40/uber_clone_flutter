@@ -9,11 +9,12 @@ This is a clone of the famous application Uber, and its done with the flutter fr
 * insert your Api key for Ios (ios ->> runner ->> appdelegate.m)
 
 ## Authors Information
-My name is Santos Enoque, I am a flutter and python developer, for more information please check the links bellow.
+My name is Mithun Adhikari, I am a flutter and python developer, for more information please check the links bellow.
 
-- [Youtube: Santos Enoque](https://www.youtube.com/channel/UCRl79zOEtiLCglAFZJJzEZQ)
-- [LinkedIn: Santos Enoque](www.linkedin.com/in/santos-enoque)
-- Skype: santos enoque
+- [LinkedIn: Mithun Adhikari](https://www.linkedin.com/in/adhikari-mithun-570474119/)
+- [Email: Mithun Adhikari](mithunadhikari40@gmail.com)
+
+- Skype: Mithun Adhikari
 
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.io/docs), which offers tutorials, 
