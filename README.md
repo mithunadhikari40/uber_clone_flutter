@@ -12,7 +12,7 @@ This is a clone of the famous application Uber, and its done with the flutter fr
 My name is Mithun Adhikari, I am a flutter and python developer, for more information please check the links bellow.
 
 - [LinkedIn: Mithun Adhikari](https://www.linkedin.com/in/adhikari-mithun-570474119/)
-- [Email: Mithun Adhikari](mithunadhikari40@gmail.com)
+- Email: Mithun Adhikari mithunadhikari40@gmail.com
 
 - Skype: Mithun Adhikari
 
